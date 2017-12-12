@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "Name": "Barrio Nuevo Horizonte",
+      "description": null,
+      "timestamp": null,
+      "begin": null,
+      "end": null,
+      "altitudeMode": null,
+      "tessellate": 1,
+      "extrude": 0,
+      "visibility": -1,
+      "drawOrder": null,
+      "icon": null
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-70.62774152753859, -33.49877969502929, 0],
+          [-70.62558304646318, -33.49889480777873, 0],
+          [-70.62557416707467, -33.49864349488033, 0],
+          [-70.6250458689704, -33.49864109400627, 0],
+          [-70.62508722730817, -33.49829703009448, 0],
+          [-70.62787806051188, -33.49821803401179, 0],
+          [-70.62774152753859, -33.49877969502929, 0]
+        ]
+      ]
+    }
+  }]
+}
